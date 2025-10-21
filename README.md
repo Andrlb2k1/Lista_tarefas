@@ -1,5 +1,5 @@
 # Lista_tarefas
-Site de lista de tarefas, feito com HTML, CSS, JavaScript, React, JSON, Node.js e Vite.
+Site de teste de lista de tarefas, feito com HTML, CSS, JavaScript, React, JSON, Node.js e Vite.
 
 Comandos:
 
